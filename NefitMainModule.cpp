@@ -1,5 +1,5 @@
 //============================================================================
-// Name        :  Hellloworldtest.cpp
+// Name        :  NefitMainModule.cpp
 // Author      :  Bram van Leeuwen
 // Version     :
 // Copyright   : Bram van Leeuwen
